@@ -1,2 +1,7 @@
-# some-project
-a demo project for showcase
+# Some Project
+
+
+This is the best project in the world !
+
+Learning to use github.
+
